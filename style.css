@@ -1,0 +1,38 @@
+body{
+    background-color: lemonchiffon;
+}
+table{
+    border: 2px solid gray;
+    margin: 40px;
+    padding: 80px;
+    font-size: 16pt;
+    background-color: bisque;
+    text-align: center;
+    margin-left: 8%;
+    border-radius: 10px;
+}
+td{
+    
+    border-top: 2px solid black;
+    margin: 10px;
+    padding: 10px;
+}
+tr{
+    margin: 20px;
+}
+input{
+   padding: 5px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: 16pt;
+   background: lemonchiffon
+}
+a , button{
+    border: 1px solid black;
+    margin: 20px; padding: 5px;
+    text-decoration: none;
+    background-color:lightcoral;
+    color: black;
+    border-radius: 20px;
+    font-size: 18pt;
+    font-family: cursive;
+}
